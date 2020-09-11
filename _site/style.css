@@ -81,6 +81,13 @@ section {
   padding: 5% 10%;
 }
 
+
+.instagram-handle {
+  font-size: 36px;
+}
+
+.right { text-align: right; }
+
 .banner {
   padding: 5%;
   display: flex;
